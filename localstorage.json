@@ -1,0 +1,59 @@
+{
+  "system": {
+    "appName": "SIMONIX Community Hub",
+    "version": "2.1.0",
+    "welcomeBonusXP": 150
+  },
+  "roles": {
+    "tier_1": {
+      "id": "starter",
+      "name": "Neuling 🐣",
+      "requiredXP": 0,
+      "color": "#94a3b8"
+    },
+    "tier_2": {
+      "id": "hype_member",
+      "name": "Community Bro 🔥",
+      "requiredXP": 100,
+      "color": "#ff0033"
+    },
+    "tier_3": {
+      "id": "vip_god",
+      "name": "SIMONIX Legende 👑",
+      "requiredXP": 500,
+      "color": "#9333ea"
+    }
+  },
+  "badges": [
+    {
+      "id": "tag_1",
+      "label": "Tag 1 Abonnent",
+      "icon": "🔥",
+      "isDefault": true
+    },
+    {
+      "id": "roblox_pro",
+      "label": "Roblox Master",
+      "icon": "🎮",
+      "isDefault": true
+    },
+    {
+      "id": "meme_king",
+      "label": "Meme King",
+      "icon": "👑",
+      "isDefault": true
+    },
+    {
+      "id": "fan_gold",
+      "label": "Simonix VIP",
+      "icon": "💎",
+      "isDefault": false
+    }
+  ],
+  "avatars": [
+    "https://api.dicebear.com/7.x/bottts/svg?seed=Simonix1",
+    "https://api.dicebear.com/7.x/bottts/svg?seed=RobloxFan",
+    "https://api.dicebear.com/7.x/bottts/svg?seed=GamerPro",
+    "https://api.dicebear.com/7.x/bottts/svg?seed=MemeLord"
+  ]
+}
